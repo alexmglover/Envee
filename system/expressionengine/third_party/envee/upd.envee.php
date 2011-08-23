@@ -18,6 +18,8 @@ class Envee_upd {
 	
 	public $models 		= array();
 	
+	public $actions 		= array();
+	
 	function Envee_upd( $switch = TRUE ) 
 	{ 
 		$this->EE =& get_instance();
