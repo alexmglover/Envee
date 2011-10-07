@@ -1,7 +1,7 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 //load envee
-require_once FCPATH.'/environments/init.php';
+require_once FCPATH.'../environments/init.php';
 
 /*
 |--------------------------------------------------------------------------
